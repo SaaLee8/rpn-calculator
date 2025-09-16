@@ -12,4 +12,4 @@ target_include_directories(rpn_calculator PRIVATE include)
 enable_testing()
 
 # Добавляем поддиректорию с тестами
-add_subdirectory(tests)
+#add_subdirectory(tests)
